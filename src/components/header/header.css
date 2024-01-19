@@ -65,9 +65,7 @@ header {
   header {
     height: 68vh;
   }
-  .container {
-    background: red;
-  }
+  
 }
 
 /* ================== MEDIA QUERIES (SMALL DEVICES) ================== */
