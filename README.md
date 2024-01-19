@@ -26,9 +26,8 @@ The successful completion of the React Portfolio project is defined by meeting t
 - React.js
 
 ## Webpage Screenshot
-![Alt text]()
+![Alt text](![Alt text](src/assets/Josh-Prestage-Personal-Portfolio.png)
 
 ## Live Demo
-
 Visit the live demo of the Password Generator here: 
 [Live Link]() 
